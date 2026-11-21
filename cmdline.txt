@@ -1,0 +1,1 @@
+root=PARTUUID=6a1c3b2e-0000-4000-8000-0000000000a1 rootwait rw console=ttyS0 console=tty0 nomodeset loglevel=4 selinux=0 hardware=x86_64_oneir init=/system/bin/init bbox_ramoops=auto panic=5 reboot=warm
